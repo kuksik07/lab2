@@ -1,16 +1,6 @@
 #include <conio.h>
 #include "figure.h"
-///////изменения
-/// изменения
-///
-///
-///
-//////////изменения
-/// изменения
-///
-///
-///
-///
+
 int menu();
 int main(){
     Figure *a = new Line;

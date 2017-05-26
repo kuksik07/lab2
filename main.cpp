@@ -1,6 +1,9 @@
 #include <conio.h>
 #include "figure.h"
 int menu();
+
+
+
 int main(){
     Figure *a = new Line;
     int answer, vopros;
